@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{EZEF:function(n,o,t){"use strict";t.d(o,"a",(function(){return e}));var r=t("ofXK"),c=t("fXoL");let e=(()=>{class n{}return n.\u0275mod=c.Ob({type:n}),n.\u0275inj=c.Nb({factory:function(o){return new(o||n)},imports:[[r.c]]}),n})()}}]);
