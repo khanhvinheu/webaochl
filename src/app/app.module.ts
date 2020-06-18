@@ -41,7 +41,7 @@ import { FormDangkynhacungcapComponent } from './header-page/form-dangkynhacungc
    
    ],
    imports: [
-      BrowserModule,
+      BrowserModule.withServerTransition({ appId: 'serverApp' }),
       AppRoutingModule,
       BrowserAnimationsModule,
       MatSliderModule,
